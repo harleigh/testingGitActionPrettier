@@ -1,4 +1,3 @@
+//test prettier
 
-//Testing Prettier
-
-console.log('Hello World')
+console.log("Hello World");
